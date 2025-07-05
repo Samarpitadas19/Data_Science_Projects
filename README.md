@@ -7,7 +7,9 @@
 ![image](https://github.com/user-attachments/assets/425b36b7-a7db-46b0-8f1b-342f42db5136)
 
 ## Project 2: Numpy Matplotlib Portfolio
-
+![image](https://github.com/user-attachments/assets/6d173044-bc4e-45e9-94f2-9b8a1bdad5d2)
+![image](https://github.com/user-attachments/assets/7abbaa13-1b2a-406e-9a28-dcb1ca80e224)
+![image](https://github.com/user-attachments/assets/d5070def-10b4-45ff-8d75-69205a6c6b05)
 
 # TECHNOLOGY USED:
 ## Technologies Demonstrated:
